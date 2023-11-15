@@ -9,10 +9,10 @@ table {
 
         th, td {
             padding: 12px;
-            border: 1px solid #ddd;
+            border: 1px solid black;
             text-align: left;
         }
 
         th {
-            background-color: #f2f2f2;
+            background-color: red;
         }
